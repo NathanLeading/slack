@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Maknz\\Slack\\": "src/"
+            "NathanLeading\\Slack\\": "src/"
         }
     },
     "minimum-stability": "stable"

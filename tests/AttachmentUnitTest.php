@@ -1,8 +1,8 @@
 <?php
 
-use Maknz\Slack\Attachment;
-use Maknz\Slack\AttachmentAction;
-use Maknz\Slack\AttachmentField;
+use NathanLeading\Slack\Attachment;
+use NathanLeading\Slack\AttachmentAction;
+use NathanLeading\Slack\AttachmentField;
 
 class AttachmentUnitTest extends PHPUnit_Framework_TestCase
 {
